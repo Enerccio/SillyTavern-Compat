@@ -1,0 +1,11 @@
+{
+    "display_name": "Enerccio-Compat",
+    "loading_order": -1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "Enerccio",
+    "version": "1.0.0",
+    "homePage": "https://github.com/Enerccio/SillyTavern-Compat",
+    "auto_update": true
+}
