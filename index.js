@@ -129,7 +129,7 @@ window.enerccio_compat = {
             SharedFunction.optional({
                 'imprint': 'boolean?',
                 'postprocess': 'function?',
-                'messageId': 'integer?',
+                'messageId': 'number?',
             })
         ],
         validateOutput: (result) => Array.isArray(result) && result.length === 2
@@ -141,7 +141,7 @@ window.enerccio_compat = {
             SharedFunction.optional({
                 'imprint': 'boolean?',
                 'postprocess': 'function?',
-                'messageId': 'integer?',
+                'messageId': 'number?',
             })
         ],
         validateOutput: (result) => Array.isArray(result) && result.length === 2
